@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/9acbde61-8bb6-4de8-a5d7-3821ffdc3bef)![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/545715be-8e6c-4cb4-a1ef-afde13c6a832)![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/c05254bf-ef6e-45df-9e4d-7c4c75f4cebd)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -9,9 +9,9 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1. Import the required packages and print the present data.
-2.Find the null and duplicate values.
-3.Using logistic regression find the predicted values of accuracy , confusion matrices.
-4.Display the results.
+2. Find the null and duplicate values.
+3. Using logistic regression find the predicted values of accuracy , confusion matrices.
+4. Display the results.
 
  
 ## PROGRAM:
@@ -76,31 +76,32 @@ RegisterNumber:212223040029
 ```
 
 ## Output:
-1.Placement Data:
-![238188357-d343df92-e10c-416a-bbeb-469c70f9317b](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/1c08057c-a09f-4f2d-9d66-982082096bfc)
+# 1.Placement Data:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/85d984f4-15a1-4117-882e-35bcc0c2cb6a)
+# 2.Salary Data:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/12b032aa-71e4-495c-a8e1-451d13a41fb8)
+# 3.Checking the null function():
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/d2ea4bae-7390-40a2-bdab-d1c9fbd08961)
+# 4.Data Duplicate:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/2c0985ed-5d02-40bf-a7df-d8dbcb418e1f)
+# 5.Print Data:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/a6ec1285-d836-4f6d-a8e9-064e8a56b892)
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/91555ec7-efde-4fc2-8195-8e5d8f347438)
+# 6.Data Status:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/94f9501e-58b6-4a5e-9231-e939b40c2045)
+# 7.y_prediction array:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/ae3eee45-a7ec-4d0b-bfeb-df45f5adb9ed)
+# 8.Accuracy value:
+![image](https://github.com/danushreddy7/Implementation-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/6c64c1ad-099c-4544-b935-87cc7c786623)
+# 9.Confusion matrix:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/1fe56b4f-46f7-4445-aa32-9bcd94cf9798)
+# 10.Classification Report:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/1df66e31-4936-4cbe-a2ce-2818f04ef936)
+# 11.Prediction of LR:
+![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/ff3a164c-b025-4332-9b68-29fe4bf79fca)
 
-2.Salary Data:
- ![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/aaaff8e4-728e-40c1-9bba-e114a73a6a40)
 
-3.Checking the null function():
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/4124a7df-af62-4a61-bd6e-ebd48c3eaea5)
-4.Data Duplicate:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/38d79d67-ca20-42a6-a1b8-2e7eac37cc5f)
-5.PRINT DATA:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/0f05f30e-40b8-4cae-99b0-84b664921a7b)
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/0f657e5b-9f4f-42d1-91dc-6fe1f8d7d804)
-6.Data Status:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/b43e8e49-d0a1-47fb-bd90-c30c43f8e3b5)
-7.y_prediction array:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/4decedf3-c721-4088-886e-ec4087047b3b)
-8.Accuracy value
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/cac92fb7-92c8-4546-ada1-cda580cd0ecb)
-9.Confusion matrix:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/5d377d47-925f-4c1d-96ed-a6c225a0edcf)
-10.Classification Report:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/543b4603-925a-49ff-b72e-cca33933e902)
-11.Prediction of LR
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/f9567e2c-8b4f-4ced-950b-da8b104765a0)
+
 
 ## RESULT:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
