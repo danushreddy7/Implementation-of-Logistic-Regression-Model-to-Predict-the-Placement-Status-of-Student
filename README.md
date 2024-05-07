@@ -77,7 +77,8 @@ RegisterNumber:212223040029
 
 ## Output:
 1.Placement Data:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/f5a19a8f-3990-47c2-bc6f-57a0470e37a0)
+![238188357-d343df92-e10c-416a-bbeb-469c70f9317b](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/1c08057c-a09f-4f2d-9d66-982082096bfc)
+
 2.Salary Data:
  ![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/aaaff8e4-728e-40c1-9bba-e114a73a6a40)
 
