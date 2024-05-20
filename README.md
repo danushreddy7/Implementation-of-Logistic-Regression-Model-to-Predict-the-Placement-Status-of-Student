@@ -25,10 +25,13 @@ RegisterNumber:212223040029
 
 ...
 ## OUTPUT:
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/e81daab9-37a3-4cc9-bdaf-60937434d7ee)
+![238188899-f13d398f-7b71-49bd-b787-2ae8b6c86f49](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/4746aba3-80b1-45b0-86bb-5ad6295fc14e)
+![238188964-495dae98-1d9d-4fcf-bb3c-20e259485d07](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/439e9bc0-9863-439b-9645-ce7972bbff1b)
+![238189054-17ef5d1d-79dc-41cb-a9d1-b05eff1c61dd](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/c957a3e8-3876-4bd6-919f-7f7400dc6fd5)
 
 
-![image](https://github.com/danushreddy7/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149035740/04fc41e8-e74a-439e-9975-83f3a525c578)
+
+
 
 
 
